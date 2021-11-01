@@ -16,8 +16,8 @@ E-commerce is a sequalized and Mysql2 based program that is used to  create a da
 
 ## Getting Started <a name = "getting-started"></a>
 
-* [Git Hub Pull](https://github.com/nicoguarino/employee-tracker.git)
-* [Walkthrough Video](https://watch.screencastify.com/v/OXZvhzHqJi7Z5E8bAPd4)
+* [Git Hub Pull](https://github.com/nicoguarino/e-commerce-.git)
+* [Walkthrough Video](https://watch.screencastify.com/v/cJGWOMP0Eu58T9QEdHDn)
 
 ## Installation <a name = "installation"></a>
 
@@ -31,7 +31,7 @@ E-commerce is a sequalized and Mysql2 based program that is used to  create a da
 
 ## Code Sample <a name = "code-sample"></a>
 
-![Sample Code](https://github.com/nicoguarino/employee-tracker/blob/main/images/sample_code.PNG?raw=true "Sample Code")
+![Sample Code](https://github.com/nicoguarino/e-commerce-/blob/main/images/sample_code.PNG?raw=true "Sample Code")
 
 ### Sample Code
 ```JavaScript Sample
